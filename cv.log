@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.21 (TeX Live 2020) (preloaded format=pdflatex 2020.7.27)  30 JUL 2021 23:07
+This is pdfTeX, Version 3.14159265-2.6-1.40.21 (TeX Live 2020) (preloaded format=pdflatex 2020.7.27)  31 JUL 2021 02:04
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -244,32 +244,36 @@ LaTeX Info: Redefining \nameref on input line 35.
 \@outlinefile=\write3
 \openout3 = `cv.out'.
 
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <7> on input line 62.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <5> on input line 62.
  [1
 
 {/usr/local/texlive/2020/texmf-var/fonts/map/pdftex/updmap/pdftex.map}]
-Package atveryend Info: Empty hook `BeforeClearDocument' on input line 186.
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 155.
  [2]
-Package atveryend Info: Empty hook `AfterLastShipout' on input line 186.
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 155.
  (./cv.aux)
-Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 186.
-Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 186.
+Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 155.
+Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 155.
 Package rerunfilecheck Info: File `cv.out' has not changed.
 (rerunfilecheck)             Checksum: E189A2F0BFB2A55358CB0EFDB7C7C574;1067.
-Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 186.
+Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 155.
  ) 
 Here is how much of TeX's memory you used:
- 5576 strings out of 480608
- 87186 string characters out of 5903630
- 361955 words of memory out of 5000000
- 21390 multiletter control sequences out of 15000+600000
- 534462 words of font info for 31 fonts, out of 8000000 for 9000
+ 5582 strings out of 480608
+ 87283 string characters out of 5903630
+ 360955 words of memory out of 5000000
+ 21395 multiletter control sequences out of 15000+600000
+ 534797 words of font info for 32 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 34i,4n,34p,211b,413s stack positions out of 5000i,500n,10000p,200000b,80000s
-</usr/local/texlive/2020/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx10.pfb></usr/local/texlive/2020/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx12.pfb></usr/local/texlive/2020/texmf-dist/fonts/type1/public/amsfonts/cm/cmr10.pfb></usr/local/texlive/2020/texmf-dist/fonts/type1/public/amsfonts/cm/cmr12.pfb>
-Output written on cv.pdf (2 pages, 72057 bytes).
+ 34i,7n,34p,211b,423s stack positions out of 5000i,500n,10000p,200000b,80000s
+{/usr/local/texlive/2020/texmf-dist/fonts/enc/dvips/cm-super/cm-super-ts1.enc}</usr/local/texlive/2020/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx10.pfb></usr/local/texlive/2020/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx12.pfb></usr/local/texlive/2020/texmf-dist/fonts/type1/public/amsfonts/cm/cmr10.pfb></usr/local/texlive/2020/texmf-dist/fonts/type1/public/amsfonts/cm/cmr12.pfb></usr/local/texlive/2020/texmf-dist/fonts/type1/public/cm-super/sfrm1000.pfb>
+Output written on cv.pdf (2 pages, 75071 bytes).
 PDF statistics:
- 133 PDF objects out of 1000 (max. 8388607)
- 123 compressed objects within 2 object streams
+ 138 PDF objects out of 1000 (max. 8388607)
+ 127 compressed objects within 2 object streams
  25 named destinations out of 1000 (max. 500000)
  177 words of extra memory for PDF output out of 10000 (max. 10000000)
 
